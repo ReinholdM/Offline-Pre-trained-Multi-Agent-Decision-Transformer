@@ -14,9 +14,9 @@ Contains scripts to reproduce experiments.
 
 It may be necessary to add the respective directories to your PYTHONPATH.
 
-The offline smac dataset for this repo is available at [here](https://reinholdm.cowtransfer.com/s/25935f64d48041).
+The offline smac dataset for this repo is available at [here](https://reinholdm.cowtransfer.com/s/7c8545dca1e043).
 ```shell
-## password is snufo5
+## password is xvsma7
 ```
 
 ## How to run experiments
